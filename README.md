@@ -1,179 +1,302 @@
 <div align="center">
 
-<p align="center">
-  <b>A &nbsp; P R E M I U M &nbsp; E X P E R I E N C E &nbsp; B Y</b><br/>
-  <a href="https://github.com/narwalindustries">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=435&lines=NARWAL+SOFTWARE+SOLUTIONS;ENGINEERED+FOR+PERFECTION;THE+FUTURE+OF+LOCAL+MEDIA" alt="Narwal Software Solutions" />
-  </a>
-</p>
-
 <br/>
 
-<img src="assets/icon/app_logo.jpg" alt="Wolf Logo" width="130" height="130" style="border-radius: 28px;">
+<p>
+  <b>✦ A PREMIUM EXPERIENCE BY ✦</b>
+</p>
+
+<a href="https://github.com/narwalindustries">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=NARWAL+SOFTWARE+SOLUTIONS;ENGINEERED+FOR+PERFECTION;THE+FUTURE+OF+LOCAL+MEDIA" alt="Narwal Software Solutions" />
+</a>
+
+<br/>
+<br/>
+
+<img src="assets/icon/app_logo.jpg" alt="Wolf Media Player Logo" width="150" />
+
+<br/>
 
 # 🐺 Wolf Media Player
 
 ### *Power. Elegance. Pure Acoustic & Visual Mastery.*
 
-**The next-generation audio and video powerhouse crafted for Android.**
-*Zero bloat. Zero interruptions. 100% focused on pure entertainment.*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Quality-4K%20UHD%20Ready-38BDF8?style=for-the-badge&logo=youtube&logoColor=white" alt="4K UHD Ready" />
-  <img src="https://img.shields.io/badge/Audio-3D%20Spatial%20Surround-818CF8?style=for-the-badge&logo=airplayaudio&logoColor=white" alt="3D Spatial Audio" />
-  <img src="https://img.shields.io/badge/Privacy-100%25%20Offline-10B981?style=for-the-badge&logo=shield&logoColor=white" alt="100% Offline" />
-  <img src="https://img.shields.io/badge/Experience-Zero%20Ads-F59E0B?style=for-the-badge" alt="Zero Ads" />
-  <img src="https://img.shields.io/badge/Display-True%20AMOLED-000000?style=for-the-badge&logo=target&logoColor=white" alt="True AMOLED" />
+<p>
+  <b>The premium offline media experience for Android.</b><br/>
+  Zero bloat. Zero interruptions. Zero distractions.
 </p>
+
+<br/>
+
+<p>
+  <a href="./assets/Wolf-Media-Player.apk">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20WOLF%20APK-38BDF8?style=for-the-badge&logo=android&logoColor=white" alt="Download Wolf APK" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:narwalindustries@gmail.com?subject=Wolf%20Media%20Player%20Support">
+    <img src="https://img.shields.io/badge/%E2%9C%89%20CONTACT%20SUPPORT-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Wolf Support" />
+  </a>
+</p>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Quality-4K%20UHD-38BDF8?style=for-the-badge&logo=youtube&logoColor=white" alt="4K UHD" />
+  <img src="https://img.shields.io/badge/Audio-3D%20Spatial-818CF8?style=for-the-badge&logo=airplayaudio&logoColor=white" alt="3D Spatial Audio" />
+  <img src="https://img.shields.io/badge/Privacy-Offline-10B981?style=for-the-badge&logo=shield&logoColor=white" alt="Offline Privacy" />
+  <img src="https://img.shields.io/badge/Experience-Zero%20Ads-F59E0B?style=for-the-badge" alt="Zero Ads" />
+  <img src="https://img.shields.io/badge/Display-AMOLED-000000?style=for-the-badge&logo=target&logoColor=white" alt="AMOLED" />
+</p>
+
+<br/>
 
 </div>
 
 ---
 
-## 📥 Download Wolf Media Player
+## ⚡ Wolf at a Glance
 
 <div align="center">
 
-### 🐺 Experience Wolf on Android
+|     🎧 Audio     |     🎬 Video     |    🗂️ Library   |   🖤 Design  |  🔒 Privacy |
+| :--------------: | :--------------: | :--------------: | :----------: | :---------: |
+| 3D Spatial Audio |   4K UHD Ready   |  Smart Grouping  |  True AMOLED | Local First |
+|    10-Band EQ    | Gesture Controls | Series Detection | Deep Dark UI |   Zero Ads  |
 
-**Download the latest Wolf Media Player APK and experience premium local media playback without distractions.**
+</div>
+
+---
+
+## 📥 Download Wolf
+
+<div align="center">
+
+### 🐺 Take Wolf With You
+
+Download the Android APK directly from this repository.
 
 <br/>
 
-<a href="assets/Wolf-Media-Player.apk">
-  <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20WOLF%20APK-38BDF8?style=for-the-badge&logo=android&logoColor=white" alt="Download Wolf APK" />
+<a href="./assets/Wolf-Media-Player.apk">
+  <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20APK-38BDF8?style=for-the-badge&logo=android&logoColor=white" alt="Download Wolf Media Player APK" />
 </a>
 
 <br/>
 <br/>
 
 <sub>
-📱 Android &nbsp; • &nbsp;
-⚡ Fast &nbsp; • &nbsp;
-🔒 Private &nbsp; • &nbsp;
-🚫 Zero Ads &nbsp; • &nbsp;
-🎬 4K Ready
+Android APK &nbsp; • &nbsp; Direct Download &nbsp; • &nbsp; No Account Required
 </sub>
-
-<br/>
-<br/>
-
-> **Note:** Download the APK and install it directly on your Android device.
-> You may need to allow installation from unknown sources in Android settings.
 
 </div>
 
----
-
-## 🌟 Why Wolf? The Unique Selling Points (USPs)
-
-Traditional media players have grown sluggish, battery-draining, and cluttered with telemetry and unwanted ads. **Wolf** is built on a different philosophy: absolute speed, premium aesthetics, and uncompromised local control.
-
-| ⚡ What Sets Wolf Apart                   | How It Benefits You                                                                                                                  |
-| :--------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
-| **🌌 True 3D Spatial Audio & Reverb**    | Expands traditional stereo into an expansive, concert-hall acoustic sphere with widened soundstage and room depth.                   |
-| **🗂️ Intelligent Series Auto-Grouping** | Organizes your TV shows, anime, and web series into tidy seasons and episodes automatically—no manual sorting required.              |
-| **👆 Physics-Driven Gesture Navigation** | Swipe seamlessly through album art, adjust video brightness and volume with vertical edge swipes, and scrub with surgical precision. |
-| **🖤 True AMOLED Black Engine**          | Features an authentic `0x000000` pitch black interface that eliminates OLED pixel power draw, saving valuable battery life.          |
-| **🛡️ 100% Private & Distraction-Free**  | Zero cloud tracking, zero push notifications, zero ads. Your files remain exclusively yours.                                         |
-| **⚡ Instant Zero-Lag Media Indexing**    | Launches instantly and caches artwork in memory for blisteringly fast scrolling through massive music libraries.                     |
+> **Installation:** Android may ask you to allow installation from the source used to download the APK. Enable that permission when prompted, then open the APK and install Wolf.
 
 ---
 
-## 🎧 The Wolf Audio Experience
+## 🌟 Why Wolf?
 
-Wolf transforms your device into an audiophile-grade high-fidelity player.
+Traditional media players can become bloated with unnecessary features, advertisements, cloud dependencies, and complicated interfaces.
+
+**Wolf takes a different approach:** fast local playback, premium interaction, powerful audio controls, and an interface designed around your media.
+
+| ⚡ Wolf Feature                           | ✦ What It Does                                                                      |
+| :--------------------------------------- | :---------------------------------------------------------------------------------- |
+| **🌌 3D Spatial Audio & Reverb**         | Expands the stereo field and adds acoustic depth for a wider listening experience.  |
+| **🗂️ Intelligent Series Auto-Grouping** | Automatically organizes TV shows, anime, and web series into seasons and episodes.  |
+| **👆 Physics-Driven Gesture Navigation** | Smooth gestures for artwork, volume, brightness, and playback seeking.              |
+| **🖤 True AMOLED Black Engine**          | Uses authentic `0x000000` black for a deep OLED-friendly interface.                 |
+| **🛡️ Private & Distraction-Free**       | Designed around local media with no advertisements or unnecessary cloud dependency. |
+| **⚡ Fast Media Indexing**                | Quickly scans and presents large local media libraries for fast browsing.           |
+
+---
+
+# 🎧 The Wolf Audio Experience
+
+Wolf is designed to turn your Android device into a powerful personal listening system.
 
 ```text
-                  ┌────────────────────────────────────────┐
-                  │       10-BAND STUDIO EQUALIZER         │
-   [ 31Hz • 62Hz • 125Hz • 250Hz • 500Hz • 1kHz • 2kHz • 4kHz • 8kHz • 16kHz ]
-                  └────────────────────────────────────────┘
-                              ▼
-                  ┌────────────────────────────────────────┐
-                  │    3D SPATIAL SURROUND ACOUSTIC ENGINE │
-                  │  * Widened Stereo Field (extrastereo)  │
-                  │  * Concert Hall Reverb & Depth         │
-                  └────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════╗
+║              10-BAND STUDIO EQUALIZER              ║
+║                                                    ║
+║ 31Hz • 62Hz • 125Hz • 250Hz • 500Hz • 1kHz       ║
+║ 2kHz • 4kHz • 8kHz • 16kHz                         ║
+╚══════════════════════════════════════════════════════╝
+                         │
+                         ▼
+╔══════════════════════════════════════════════════════╗
+║          3D SPATIAL SURROUND ENGINE                ║
+║                                                    ║
+║ • Widened Stereo Field                             ║
+║ • Acoustic Depth                                   ║
+║ • Concert-Hall Style Reverb                        ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-* **🎛️ 10-Band Studio Equalizer**: Master every frequency from deep sub-bass rumble (31 Hz) to sparkling acoustic brilliance (16 kHz).
-* **🎶 12 Tailored Sound Profiles**: Switch instantly between *Bass Boost, Vocal, Rock, Pop, Jazz, Electronic, Hip-Hop, Acoustic, Classical, Treble, Flat,* or save your own *Custom* profile.
-* **🌐 3D Spatial Surround Sound**: Toggle expansive virtual surround that simulates multi-speaker acoustic projection right through your standard headphones.
-* **💿 Tactile Artwork Carousel**: Natural 1-to-1 touch response artwork switcher that tracks your finger smoothly across album tracks.
-* **🔇 Silent Scrubbing**: Scrub across any song without stutter, audio chirping, or sudden blasts of volume.
-* **🌙 Smart Sleep Timer**: Fall asleep to your favorite playlists with an automated timer that gently stops playback.
-* **📲 Lockscreen & Background Transport**: Control music effortlessly with full Android MediaSession integration, rich lockscreen artwork, and headphone button support.
+### 🎛️ 10-Band Studio Equalizer
+
+Control the entire frequency spectrum from deep **31 Hz** bass through **16 kHz** high-frequency detail.
+
+### 🎶 12 Sound Profiles
+
+Switch between:
+
+`Bass Boost` · `Vocal` · `Rock` · `Pop` · `Jazz` · `Electronic` · `Hip-Hop` · `Acoustic` · `Classical` · `Treble` · `Flat` · `Custom`
+
+### 🌐 3D Spatial Surround
+
+Expand the perceived stereo field and create a more spacious listening experience through headphones.
+
+### 💿 Tactile Artwork Carousel
+
+Smooth album artwork navigation with natural, responsive touch interaction.
+
+### 🔇 Silent Scrubbing
+
+Seek through tracks without unnecessary audio chirps, sudden volume spikes, or distracting playback artifacts.
+
+### 🌙 Smart Sleep Timer
+
+Set a timer and let Wolf automatically stop playback when your session is over.
+
+### 📲 Lockscreen & Background Controls
+
+MediaSession integration provides playback controls from the lockscreen and Android system interfaces.
 
 ---
 
-## 🎬 The Wolf Video Experience
+# 🎬 The Wolf Video Experience
 
-Engineered for cinephiles, binge-watchers, and everyday viewers who demand crystal-clear video quality.
+Built for movies, TV shows, anime, music videos, and everyday local playback.
 
-| 🚀 Hardware 4K Playback                                                       | 🖐️ Smart Gesture Control                                                                 | 🪟 Picture-in-Picture (PiP)                                                              |
-| :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
-| Silky-smooth playback up to 4K UHD at 60 FPS with zero dropped frames or lag. | Independent left/right swipe controls for brightness and volume, plus double-tap seeking. | Multitask effortlessly with a floating mini-player while chatting, browsing, or working. |
+| 🚀 4K UHD Playback                                                | 🖐️ Smart Gestures                                               | 🪟 Picture-in-Picture                                               |
+| :---------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------ |
+| Smooth high-resolution playback for supported hardware and media. | Control brightness, volume, and seeking with intuitive gestures. | Continue watching in a floating mini-player while using other apps. |
 
-| 🔒 Screen Lock Shield                                                                         | 💬 Multi-Track & Subtitles                                                                        | ⚡ Granular Speed Control                                                            |
-| :-------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------- |
-| Lock on-screen touch controls to prevent accidental taps while watching your favorite movies. | Switch between embedded audio languages and subtitle tracks on the fly with clean font rendering. | Fine-tune video playback speed from 0.25x slow-motion up to 3.0x high-speed review. |
-
----
-
-## 📚 Smart Media Management
-
-* **📁 Auto-Detection for Series & Episodes**: Smart pattern detection groups fragmented episode filenames into organized series cards with season navigation.
-* **🔍 Instant Search & Live Filtering**: Locate any track, video, or series in milliseconds as you type.
-* **📂 Custom Watch Folders**: Choose exactly which folders Wolf scans and protect your personal privacy by excluding sensitive directories.
-* **🕒 Smart Watch History**: Pick up videos and audiobooks right where you left off with accurate resume timestamps.
-* **🗂️ Batch Organization**: Select, favorite, queue, or manage multiple tracks and videos in a single tap.
+| 🔒 Screen Lock                                        | 💬 Audio & Subtitles                                        | ⚡ Playback Speed                             |
+| :---------------------------------------------------- | :---------------------------------------------------------- | :------------------------------------------- |
+| Lock playback controls to prevent accidental touches. | Switch supported audio tracks and subtitles while watching. | Adjust playback from `0.25x` through `3.0x`. |
 
 ---
 
-## 🎨 Crafted for Your Eyes
+# 📚 Smart Media Management
 
-* **🖤 True AMOLED Mode**: Pitch-black interface design that looks mesmerizing on OLED displays while saving maximum power.
-* **🌌 Midnight Slate & Deep Dark**: Refined alternate themes built with soft glassmorphic elements and high-contrast typography.
-* **🌍 Multilingual by Design**: Full international language support including English, Hindi (हिन्दी), Spanish (Español), French (Français), Arabic (العربية), Japanese (日本語), and Korean (한국어).
+### 📁 Automatic Series Detection
 
----
+Wolf can detect common episode and season naming patterns and organize them into structured series libraries.
 
-## 💎 The Wolf Advantage: Comparison
+### 🔍 Instant Search
 
-| Feature                        |      Standard Players      |        🐺 Wolf Media Player        |
-| :----------------------------- | :------------------------: | :--------------------------------: |
-| **Advertisements & Trackers**  |     ❌ Common & Annoying    |   🟢 **100% Zero Ads & Offline**   |
-| **3D Spatial Acoustic Engine** |    ❌ Rare / Paid Add-on    |        🟢 **Built-in Free**        |
-| **Automated Series Grouping**  |    ❌ Manual Folders Only   |     🟢 **Automatic & Instant**     |
-| **Touch Gesture Precision**    |      ⚠️ Clunky / Laggy     |   🟢 **Fluid 1:1 Physics-Based**   |
-| **OLED Battery Optimization**  |   ⚠️ Generic Grey Themes   | 🟢 **Authentic `0x000000` AMOLED** |
-| **Privacy & Permissions**      | ❌ Cloud Telemetry / Logins | 🟢 **Strictly Local Storage Only** |
+Search through music, videos, and series quickly with live filtering.
 
----
+### 📂 Custom Watch Folders
 
-## 📦 Installation
+Choose exactly which directories Wolf should scan for media.
 
-### 1. Download
+### 🕒 Smart Watch History
 
-Click the **[Download Wolf APK](assets/Wolf-Media-Player.apk)** button above.
+Resume supported video and audiobook playback from where you stopped.
 
-### 2. Install
+### 🗂️ Batch Management
 
-Open the downloaded `.apk` file on your Android device.
-
-### 3. Allow Installation
-
-If Android displays a security warning, allow installation from the source you used to download the APK.
-
-### 4. Launch Wolf
-
-Open **Wolf Media Player**, grant the required local media permissions, and start enjoying your music and videos.
+Select multiple files and perform supported organization actions without handling every item individually.
 
 ---
 
-## 📁 Repository Structure
+# 🎨 Crafted for Your Eyes
+
+Wolf is designed around a deep, cinematic visual language.
+
+### 🖤 True AMOLED Black
+
+A genuine `#000000` interface for a deep black OLED experience.
+
+### 🌌 Midnight Themes
+
+Dark visual styles using high-contrast typography and subtle glass-inspired elements.
+
+### 🌍 Multilingual
+
+Designed with international users in mind, including:
+
+**English · हिन्दी · Español · Français · العربية · 日本語 · 한국어**
+
+---
+
+# 🧭 Gesture Controls
+
+Wolf keeps important controls close to your fingertips.
+
+```text
+                 VIDEO PLAYER
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+       LEFT SIDE              RIGHT SIDE
+          │                       │
+          ▼                       ▼
+     BRIGHTNESS                VOLUME
+          │                       │
+          └──────────┬────────────┘
+                     │
+                     ▼
+              PLAYBACK AREA
+
+        DOUBLE TAP → SEEK
+        SWIPE      → CONTROL
+```
+
+Designed to reduce unnecessary menus and keep playback controls accessible while watching.
+
+---
+
+# 💎 The Wolf Advantage
+
+| Feature            | Traditional Players |      🐺 Wolf Media Player     |
+| :----------------- | :-----------------: | :---------------------------: |
+| Advertisements     |      ⚠️ Varies      |        🟢 **Zero Ads**        |
+| Offline Playback   |      ⚠️ Varies      |    🟢 **Local Media Focus**   |
+| 3D Spatial Audio   |      ⚠️ Limited     |        🟢 **Built-In**        |
+| Series Grouping    |   ⚠️ Often Manual   |        🟢 **Automatic**       |
+| Gesture Navigation |      ⚠️ Varies      | 🟢 **Physics-Based Controls** |
+| AMOLED Interface   | ⚠️ Depends on Theme |     🟢 **True `0x000000`**    |
+| Media Search       |      ⚠️ Varies      |     🟢 **Instant Search**     |
+| Watch History      |      ⚠️ Varies      |     🟢 **Resume Playback**    |
+
+---
+
+# 🛠️ Installation
+
+### Step 01 — Download
+
+Click the button below:
+
+<div align="center">
+
+<a href="./assets/Wolf-Media-Player.apk">
+  <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20WOLF-38BDF8?style=for-the-badge&logo=android&logoColor=white" alt="Download Wolf" />
+</a>
+
+</div>
+
+### Step 02 — Open the APK
+
+Locate `Wolf-Media-Player.apk` on your Android device and open it.
+
+### Step 03 — Allow Installation
+
+Android may request permission to install applications from the source used to download the APK.
+
+### Step 04 — Launch Wolf
+
+Install Wolf, grant the media permissions requested by the application, and begin browsing your local library.
+
+---
+
+# 📁 Repository Structure
 
 ```text
 Wolf-Media-Player/
@@ -181,34 +304,65 @@ Wolf-Media-Player/
 ├── README.md
 │
 └── assets/
+    │
     ├── icon/
     │   └── app_logo.jpg
     │
     └── Wolf-Media-Player.apk
 ```
 
+> **Important:** Keep the APK filename exactly as `Wolf-Media-Player.apk` unless you also update the links in this README.
+
 ---
 
-<br/>
+# 📧 Contact & Support
 
 <div align="center">
 
-### 🛡️ NARWAL SOFTWARE SOLUTIONS
+### Need help with Wolf?
 
-**Precision Engineering • Modern Design • Uncompromised Digital Craftsmanship**
+For installation issues, bugs, suggestions, or general support:
 
-Wolf is proudly conceptualized, designed, and developed by **Narwal Software Solutions**.
-Dedicated to building blazing-fast, beautiful, and distraction-free software for modern users worldwide.
+<br/>
 
-<p align="center">
-  <a href="https://github.com/narwalindustries">
-    <img src="https://img.shields.io/badge/GitHub-Narwal%20Software%20Solutions-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:narwalindustries@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Narwal%20Support-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Contact" />
-  </a>
-</p>
+<a href="mailto:narwalindustries@gmail.com?subject=Wolf%20Media%20Player%20Support&body=Hello%20Narwal%20Software%20Solutions%2C%0A%0AI%20need%20support%20with%20Wolf%20Media%20Player.%0A%0ADevice%3A%0AAndroid%20Version%3A%0AIssue%3A%0A">
+  <img src="https://img.shields.io/badge/%E2%9C%89%20EMAIL%20WOLF%20SUPPORT-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Wolf Support" />
+</a>
+
+<br/>
+<br/>
+
+**[narwalindustries@gmail.com](mailto:narwalindustries@gmail.com)**
+
+</div>
+
+---
+
+# 🛡️ Narwal Software Solutions
+
+<div align="center">
+
+### **PRECISION ENGINEERING • MODERN DESIGN • UNCOMPROMISED DIGITAL CRAFTSMANSHIP**
+
+Wolf is proudly conceptualized, designed, and developed by
+**Narwal Software Solutions**.
+
+Dedicated to building fast, beautiful, and distraction-free software for modern users worldwide.
+
+<br/>
+
+<a href="https://github.com/narwalindustries">
+  <img src="https://img.shields.io/badge/GitHub-Narwal%20Software%20Solutions-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Narwal Software Solutions GitHub" />
+</a>
+
+  
+
+<a href="mailto:narwalindustries@gmail.com?subject=Narwal%20Software%20Solutions">
+  <img src="https://img.shields.io/badge/Email-Narwal%20Support-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Narwal Support Email" />
+</a>
+
+<br/>
+<br/>
 
 <sub>© 2026 <b>Narwal Software Solutions</b>. All rights reserved.</sub>
 
