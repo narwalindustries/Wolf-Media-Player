@@ -9,13 +9,13 @@
 
 <br/>
 
-<img src="assets/icon/app_logo.jpg" alt="Wolf Logo" width="130" height="130" style="border-radius: 28px;">
+<img src="assets/Wolf_logo.jpg" alt="Wolf Logo" width="130" height="130" style="border-radius: 28px;">
 
 # 🐺 Wolf Media Player
 
 ### *Power. Elegance. Pure Acoustic & Visual Mastery.*
 
-**The next-generation audio and video powerhouse crafted for Android.**
+**The next-generation audio and video powerhouse crafted for Android 13+ (API 33+).**
 *Zero bloat. Zero interruptions. 100% focused on pure entertainment.*
 
 <br/>
@@ -23,6 +23,8 @@
 <a href="./assets/Wolf_Media_Player.apk">
   <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20APK-38BDF8?style=for-the-badge&logo=android&logoColor=white" alt="Download Wolf APK" />
 </a>
+
+<p><sub>⚡ <b>Compatibility:</b> Requires Android 13 or higher (ARM64-v8a • ~33 MB)</sub></p>
 
   
 
@@ -34,7 +36,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Platform-Android%2013%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 13+" />
+  <img src="https://img.shields.io/badge/Architecture-ARM64--v8a-818CF8?style=for-the-badge&logo=arm&logoColor=white" alt="ARM64-v8a" />
   <img src="https://img.shields.io/badge/Quality-4K%20UHD%20Ready-38BDF8?style=for-the-badge&logo=youtube&logoColor=white" alt="4K UHD Ready" />
   <img src="https://img.shields.io/badge/Audio-3D%20Spatial%20Surround-818CF8?style=for-the-badge&logo=airplayaudio&logoColor=white" alt="3D Spatial Audio" />
   <img src="https://img.shields.io/badge/Privacy-100%25%20Offline-10B981?style=for-the-badge&logo=shield&logoColor=white" alt="100% Offline" />
